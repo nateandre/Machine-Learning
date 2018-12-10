@@ -1,1 +1,1 @@
-# deep_learning_proj
+Personal deep learning projects.
