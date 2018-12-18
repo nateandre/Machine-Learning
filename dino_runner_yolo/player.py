@@ -58,9 +58,10 @@ def get_key(encoding):
 
     if conf_score_1 > conf_score_2: # Use sec_1 encoding 
         key = get_key_value(sec_1[indic1//14,indic1-(indic1//14*14),5:7])
+        print(sec_1[indic1//14,indic1-(indic1//14*14),5:7])
     else: # Use sec_2 encoding
         key = get_key_value(sec_2[indic2//14,indic2-(indic2//14*14),5:7])
-
+        print(sec_2[indic2//14,indic2-(indic2//14*14),5:7])
     return key
 
 # Gets the highest prob classification from encoding
