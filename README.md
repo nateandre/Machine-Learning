@@ -6,3 +6,4 @@ Projects descriptions:
 - googLeNet_model: Implemented a model based on GoogLeNet.
 - resnet_model: Implemented a resnet-50 model in Keras and Tensorflow.
 - simple_yolo_detection: Implemented a number of helper functions for the YOLO model and train a model based on one prediction per cell.
+- neural_style_transfer: Implemented a model based off the paper - A Neural Algorithm of Artistic Style.
