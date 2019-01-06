@@ -9,3 +9,4 @@ Projects descriptions:
 - neural_style_transfer: Implemented a model based off the paper - A Neural Algorithm of Artistic Style.
 - language_model: A character level rnn testing out 5 different architectures in a winner-take-all setting for learning the semantics of dinosaur names
 - sentiment_scoring: Testing unidirectional and bidirectional rnns using word embeddings for sentiment classification of 3 diverse datasets of customer reviews
+- trigger_word: building a unidirectional multilayered rnn to detect when a trigger word is said, with a focus on data synthesis
