@@ -67,6 +67,9 @@ def main():
         get_audio(stream,p) # saving audio to disk
         q.put(1) # indicate that data has been recorded
 
+        stream.stop_stream()
+        stream.close()
+
 # checks if the model detected a trigger word and prints 
 def check_if_trigger(desc_pred,spec_len):
     to_get = int(spec_len / 1402 * 1375) # amount of audio to check

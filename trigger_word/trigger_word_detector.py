@@ -54,6 +54,9 @@ def main():
 
         _,desc_pred = sess.run(pred,feed_dict={x:background})
         check_if_trigger(desc_pred)
+        
+        stream.stop_stream()
+        stream.close()
 
 # checks if the model detected a trigger word and prints 
 def check_if_trigger(desc_pred):
