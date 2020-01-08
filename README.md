@@ -1,13 +1,15 @@
 ### Random Machine Learning Projects
 
-Projects descriptions: 
-- dino_runner_yolo: YOLO model implementation to detect whether a user's palm is open or closed (based on self-labeled data), and separate driver program that feeds commands to play the Chrome dinosaur game using Selenium.
-- trigger_word: Unidirectional multilayered rnn model to detect when a trigger word is said (based on self-collected data and heavy data synthesis), and separate driver program with multithreading to detect utterances on the fly.
-- face_recognition: Implemented a model based on FaceNet.
+Note: Projects were completed for personal growth and each has a varying level of clear documentation and algorithmic efficiency.
+
+#### Projects descriptions: 
+- dino_runner_yolo: YOLO model implementation to detect whether a user's palm is open or closed (based on personal data), and separate driver program that feeds commands to play the Chrome dinosaur game using Selenium.
+- trigger_word_detector: Unidirectional multilayered RNN model to detect when a trigger word is said (based on personal data and heavy data synthesis), and separate driver program using multithreading to detect utterances on the fly.
+- face_recognition: Implemented a facial recognition model based on FaceNet.
 - neural_style_transfer: Implemented a model based off the paper - A Neural Algorithm of Artistic Style. ([Video](https://www.linkedin.com/posts/nathaniel-andre_computervision-deeplearning-activity-6484430196412944384-Zjj3))
-- recommender_system: Collaborative filtering implementation.
-- language_model: A character level rnn for learning the semantics of Goethe's Wilhelm Meister (using MLE for text production).
-- anomaly_detection: Gaussian anomaly-detection w/ multivariate and univariate implementations.
+- recommender_systems: Collaborative filtering implementation.
+- language_model: A character level RNN for learning the semantics of Goethe's Wilhelm Meister (using MLE for text production).
+- anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
 - googLeNet_model: Implemented model based on GoogLeNet.
 - resnet_model: Implemented resnet-50 model in Keras and Tensorflow.
 - clustering: K-means clustering implementation.
