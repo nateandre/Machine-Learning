@@ -2,7 +2,7 @@
 
 Note: Projects were completed for personal growth and each has a varying level of clear documentation and algorithmic efficiency.
 
-#### Projects descriptions: 
+#### Project descriptions: 
 - dino_runner_yolo: YOLO model implementation to detect whether a user's palm is open or closed (based on personal data), and separate driver program that feeds commands to play the Chrome dinosaur game using Selenium.
 - trigger_word_detector: Unidirectional multilayered RNN model to detect when a trigger word is said (based on personal data and heavy data synthesis), and separate driver program using multithreading to detect utterances on the fly.
 - face_recognition: Implemented a facial recognition model based on FaceNet.
