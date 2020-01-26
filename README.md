@@ -21,3 +21,4 @@ Note: Projects were completed for personal growth and each has a varying level o
   1. Simple instance of a genetic algorithm to find parameters that maximize a simple objective function.
   2. Simple genetic algorithm to learn how to play an implementation of the snake game.
 - autoencoder: DNN/CNN autoencoders implemented for the task of denoising with MNIST.
+- svm: SVM implementation using simple gradient descent, for linear and gaussian kernels.
