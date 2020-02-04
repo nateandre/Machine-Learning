@@ -12,7 +12,9 @@ Note: Projects were completed for personal growth and each has a varying level o
 - anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
 - googLeNet_model: Implemented model based on GoogLeNet.
 - resnet_model: Implemented resnet-50 model in Keras and Tensorflow.
-- clustering: K-means clustering implementation.
+- clustering: 
+  1. K-means clustering implementation.
+  2. DBSCAN density clustering implementation.
 - dense_neural_net: Manually built neural network with hidden layers and sigmoid/relu activation, xavier initialization, and adam optimization implementations.
 - linear_regression: Linear regression implementation using gradient descent.
 - logistic_regression: Logistic regression implementation using gradient descent.
