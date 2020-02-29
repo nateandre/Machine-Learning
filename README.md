@@ -9,7 +9,9 @@ Note: Projects were completed for personal growth and each has a varying level o
 - rnn_with_attention: Implementation of a RNN with an attention mechanism for the task of date normalization.
 - neural_style_transfer: Implemented a model based off the paper - A Neural Algorithm of Artistic Style. ([Video](https://www.linkedin.com/posts/nathaniel-andre_computervision-deeplearning-activity-6484430196412944384-Zjj3))
 - recommender_systems: Collaborative filtering implementation.
-- language_model: A character level RNN for learning the semantics of Goethe's Wilhelm Meister (using MLE for text production).
+- language_models: 
+  1. Character level RNN for Goethe's Wilhelm Meister.
+  2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
 - anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
 - googLeNet_model: Implemented model based on GoogLeNet.
 - resnet_model: Implemented resnet-50 model in Keras and Tensorflow.
