@@ -7,6 +7,8 @@ Note: Projects were completed for personal growth and each has a varying level o
 - trigger_word_detector: Unidirectional multilayered RNN model to detect when a trigger word is said (based on personal data and heavy data synthesis), and separate driver program using multithreading to detect utterances on the fly.
 - face_recognition: Implemented a facial recognition model based on FaceNet.
 - rnn_with_attention: Implementation of a RNN with an attention mechanism for the task of date normalization.
+- cnn_for_nlp
+  1. ByteNet Character-level translation model.
 - neural_style_transfer: Implemented a model based off the paper - A Neural Algorithm of Artistic Style. ([Video](https://www.linkedin.com/posts/nathaniel-andre_computervision-deeplearning-activity-6484430196412944384-Zjj3))
 - recommender_systems: Collaborative filtering implementation.
 - language_models: 
