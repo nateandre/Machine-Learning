@@ -24,7 +24,9 @@ Note: Projects were completed for personal growth and each has a varying level o
 - genetic_algorithm:
   1. Simple instance of a genetic algorithm to find parameters that maximize a simple objective function.
   2. Simple genetic algorithm to learn how to play an implementation of the snake game.
-- autoencoders: DNN/CNN autoencoders implemented for the task of denoising with MNIST.
+- autoencoders: 
+  1. DNN/CNN auto-encoders for denoising with MNIST.
+  2. variational auto-encoder for generation with MNIST.
 - simple_models:
   1. svm: SVM implementation using simple gradient descent, for linear and gaussian kernels.
   2. dense_neural_net: Simple neural network with hidden layers and sigmoid/relu activation, xavier initialization, and adam optimization implementations.
