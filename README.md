@@ -1,20 +1,20 @@
 ### Random Machine Learning Projects
 
-Note: Projects were completed for personal growth and each has a varying level of clear documentation and algorithmic efficiency.
+Projects completed for personal development and each has a varying level of clear documentation and algorithmic efficiency.
 
 #### Project descriptions: 
 - dino_runner_yolo: YOLO model implementation to detect whether a user's palm is open or closed (based on personal data), and separate driver program that feeds commands to play the Chrome dinosaur game using Selenium.
 - trigger_word_detector: Unidirectional multilayered RNN model to detect when a trigger word is said (based on personal data and heavy data synthesis), and separate driver program using multithreading to detect utterances on the fly.
 - face_recognition: Implemented a facial recognition model based on FaceNet.
 - neural_style_transfer: Implemented a model based off the paper - A Neural Algorithm of Artistic Style. ([Video](https://www.linkedin.com/posts/nathaniel-andre_computervision-deeplearning-activity-6484430196412944384-Zjj3))
+- recommender_systems: Collaborative filtering implementation.
+- anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
 - deep_learning_for_nlp:
   1. ByteNet Character-level translation model.
   2. Implementation of a RNN with an attention mechanism for the task of date normalization.
-- recommender_systems: Collaborative filtering implementation.
 - language_models: 
   1. Character level RNN for Goethe's Wilhelm Meister.
   2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
-- anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
 - object_detection:
   1. googLeNet_model: Implemented model based on GoogLeNet.
   2. resnet_model: Implemented resnet-50 model in Keras and Tensorflow.
