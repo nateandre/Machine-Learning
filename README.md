@@ -27,6 +27,7 @@ Projects completed for personal development and each has a varying level of clea
 - autoencoders: 
   1. DNN/CNN auto-encoders for denoising with MNIST.
   2. variational auto-encoder for generation with MNIST.
+  3. stacked denoising auto-encoder for domain adaptation.
 - simple_models:
   1. svm: SVM implementation using simple gradient descent, for linear and gaussian kernels.
   2. dense_neural_net: Simple neural network with hidden layers and sigmoid/relu activation, xavier initialization, and adam optimization implementations.
