@@ -11,23 +11,24 @@ Projects completed for personal development and each has a varying level of clea
 - anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
 - deep_learning_for_nlp:
   1. ByteNet Character-level translation model.
-  2. Implementation of a RNN with an attention mechanism for the task of date normalization.
+  2. Convolutional Seq2Seq model implementation.
+  3. Implementation of a RNN with an attention mechanism.
+- autoencoders: 
+  1. DNN/CNN auto-encoders for denoising with MNIST.
+  2. variational auto-encoder for generation with MNIST.
+  3. stacked denoising auto-encoder for domain adaptation.
 - language_models: 
   1. Character level RNN for Goethe's Wilhelm Meister.
   2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
-- object_detection:
-  1. googLeNet_model: Implemented model based on GoogLeNet.
-  2. resnet_model: Implemented resnet-50 model in Keras and Tensorflow.
 - clustering: 
   1. K-means clustering implementation.
   2. DBSCAN density clustering implementation.
 - genetic_algorithm:
   1. Simple instance of a genetic algorithm to find parameters that maximize a simple objective function.
   2. Simple genetic algorithm to learn how to play an implementation of the snake game.
-- autoencoders: 
-  1. DNN/CNN auto-encoders for denoising with MNIST.
-  2. variational auto-encoder for generation with MNIST.
-  3. stacked denoising auto-encoder for domain adaptation.
+- object_detection:
+  1. googLeNet_model: Implemented model based on GoogLeNet.
+  2. resnet_model: Implemented resnet-50 model in Keras and Tensorflow.
 - simple_models:
   1. svm: SVM implementation using simple gradient descent, for linear and gaussian kernels.
   2. dense_neural_net: Simple neural network with hidden layers and sigmoid/relu activation, xavier initialization, and adam optimization implementations.
