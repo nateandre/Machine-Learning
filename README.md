@@ -9,6 +9,7 @@ Projects completed for personal development and each has a varying level of clea
 - neural_style_transfer: Implemented a model based off the paper - A Neural Algorithm of Artistic Style. ([Video](https://www.linkedin.com/posts/nathaniel-andre_computervision-deeplearning-activity-6484430196412944384-Zjj3))
 - recommender_systems: Collaborative filtering implementation.
 - anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
+- generative_adversarial_nets: Standard GAN implementation for digit generation.
 - deep_learning_for_nlp:
   1. ByteNet Character-level translation model.
   2. Convolutional Seq2Seq model implementation.
