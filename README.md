@@ -14,6 +14,7 @@ Projects completed for personal development and each has a varying level of clea
   1. ByteNet Character-level translation model.
   2. Convolutional Seq2Seq model implementation.
   3. Implementation of a RNN with an attention mechanism.
+  4. Vanilla Transformer implementation.
 - autoencoders: 
   1. DNN/CNN auto-encoders for denoising with MNIST.
   2. variational auto-encoder for generation with MNIST.
