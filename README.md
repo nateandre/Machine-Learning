@@ -19,6 +19,8 @@ Projects completed for personal development and each has a varying level of clea
   1. DNN/CNN auto-encoders for denoising with MNIST.
   2. variational auto-encoder for generation with MNIST.
   3. stacked denoising auto-encoder for domain adaptation.
+- other_models:
+  1. Pointer Network for solving convex hull.
 - language_models: 
   1. Character level RNN for Goethe's Wilhelm Meister.
   2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
