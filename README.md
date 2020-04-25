@@ -15,6 +15,7 @@ Projects completed for personal development and each has a varying level of clea
   2. Convolutional Seq2Seq model implementation.
   3. Implementation of a RNN with an attention mechanism.
   4. Vanilla Transformer implementation.
+  5. Skip-Gram word embeddings using negative & importance sampling.
 - autoencoders: 
   1. DNN/CNN auto-encoders for denoising with MNIST.
   2. variational auto-encoder for generation with MNIST.
