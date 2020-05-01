@@ -16,6 +16,7 @@ Projects completed for personal development and each has a varying level of clea
   3. Implementation of a RNN with an attention mechanism.
   4. Vanilla Transformer implementation.
   5. Skip-Gram word embeddings using negative & importance sampling.
+  6. Pointer-Generator model for news title summarization.
 - autoencoders: 
   1. DNN/CNN auto-encoders for denoising with MNIST.
   2. variational auto-encoder for generation with MNIST.
