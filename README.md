@@ -11,12 +11,12 @@ Projects/Implementations completed for personal development and each has a varyi
 - anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
 - generative_adversarial_nets: Standard GAN implementation for digit generation.
 - deep_learning_for_nlp:
-  1. ByteNet Character-level translation model.
+  1. Variants of the Pointer-Generator network for news title summarization, including vanilla, hierarchical, and transformer-based.
   2. Convolutional Seq2Seq model implementation.
   3. Implementation of a RNN with an attention mechanism.
   4. Vanilla Transformer implementation.
   5. Skip-Gram word embeddings using negative & importance sampling.
-  6. Pointer-Generator model for news title summarization.
+  6. ByteNet Character-level translation model.
 - autoencoders: 
   1. DNN/CNN auto-encoders for denoising with MNIST.
   2. variational auto-encoder for generation with MNIST.
