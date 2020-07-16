@@ -23,6 +23,7 @@ Projects/Implementations completed for personal development and each has a varyi
   3. stacked denoising auto-encoder for domain adaptation.
 - other_models:
   1. Pointer Network for solving convex hull.
+  2. Joint-siamese model for NLP.
 - language_models: 
   1. Character level RNN for Goethe's Wilhelm Meister.
   2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
