@@ -26,6 +26,7 @@ Projects/Implementations completed for personal development and each has a varyi
   2. Joint-siamese model for NLP.
 - domain_adaptation:
   1. Subspace alignment.
+  2. Domain adversarial neural networks.
 - language_models: 
   1. Character level RNN for Goethe's Wilhelm Meister.
   2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
