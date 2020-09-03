@@ -9,7 +9,9 @@ Projects/Implementations completed for personal development and each has a varyi
 - neural_style_transfer: Implemented a model based off the paper - A Neural Algorithm of Artistic Style. ([Video](https://www.linkedin.com/posts/nathaniel-andre_computervision-deeplearning-activity-6484430196412944384-Zjj3))
 - recommender_systems: Collaborative filtering implementation.
 - anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
-- generative_adversarial_nets: Standard GAN implementation for digit generation.
+- generative_adversarial_nets: 
+  1. Standard GAN implementation for digit generation.
+  2. Conditional LSGAN.
 - deep_learning_for_nlp:
   1. Variants of the Pointer-Generator network for news title summarization, including vanilla, hierarchical, and transformer-based.
   2. Convolutional Seq2Seq model implementation.
