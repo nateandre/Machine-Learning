@@ -14,6 +14,7 @@ Projects/Implementations completed for personal development and each has a varyi
   2. Conditional LSGAN.
   3. Energy-based GAN, vanilla and with PT component.
   4. Wasserstein GAN, vanilla and using GP.
+  5. Pix2Pix conditional GAN.
 - deep_learning_for_nlp:
   1. Variants of the Pointer-Generator network for news title summarization, including vanilla, hierarchical, and transformer-based.
   2. Convolutional Seq2Seq model implementation.
