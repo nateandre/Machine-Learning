@@ -32,6 +32,7 @@ Projects/Implementations completed for personal development and each has a varyi
   2. Joint-siamese model for NLP.
   3. Highway network.
   4. Iterative feature expansion to reduce feature sparsity.
+  5. TF-IDF variant based on clustering for short text data.
 - domain_adaptation:
   1. Subspace alignment.
   2. Domain adversarial neural networks.
