@@ -27,7 +27,7 @@ Projects/Implementations completed for personal development and each has a varyi
   1. DNN/CNN auto-encoders for denoising with MNIST.
   2. variational auto-encoder for generation with MNIST.
   3. stacked denoising auto-encoder for domain adaptation.
-- other_models:
+- other_models_and_work:
   1. Pointer Network for solving convex hull.
   2. Joint-siamese model for NLP.
   3. Highway network.
