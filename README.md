@@ -31,6 +31,7 @@ Projects/Implementations completed for personal development and each has a varyi
   1. Pointer Network for solving convex hull.
   2. Joint-siamese model for NLP.
   3. Highway network.
+  4. Iterative feature expansion to reduce feature sparsity.
 - domain_adaptation:
   1. Subspace alignment.
   2. Domain adversarial neural networks.
