@@ -39,6 +39,8 @@ Projects/Implementations completed for personal development and each has a varyi
   3. Domain adaptation with GANs.
   4. Deep domain confusion
   5. Deep CORAL
+- adversarial_methods:
+  1. Simple adversarial attack with DNN.
 - language_models: 
   1. Character level RNN for Goethe's Wilhelm Meister.
   2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
