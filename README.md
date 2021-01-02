@@ -49,6 +49,7 @@ Projects/Implementations completed for personal development and each has a varyi
 - clustering: 
   1. K-means clustering implementation.
   2. DBSCAN density clustering implementation.
+  3. Gaussian mixture model.
 - genetic_algorithm:
   1. Simple instance of a genetic algorithm to find parameters that maximize a simple objective function.
   2. Simple genetic algorithm to learn how to play an implementation of the snake game.
