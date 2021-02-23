@@ -45,6 +45,7 @@ Projects/Implementations completed for personal development and each has a varyi
   1. Simple adversarial attack with DNN.
   2. Fast gradient sign method.
   3. Traditional adversarial regularization.
+  4. Virtual adversarial regularization.
 - language_models: 
   1. Character level RNN for Goethe's Wilhelm Meister.
   2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
