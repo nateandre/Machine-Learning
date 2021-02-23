@@ -43,6 +43,7 @@ Projects/Implementations completed for personal development and each has a varyi
   5. Deep CORAL
 - adversarial_methods:
   1. Simple adversarial attack with DNN.
+  2. Fast gradient sign method.
 - language_models: 
   1. Character level RNN for Goethe's Wilhelm Meister.
   2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
