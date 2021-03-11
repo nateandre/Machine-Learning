@@ -60,8 +60,9 @@ Projects/Implementations completed for personal development and each has a varyi
   1. googLeNet_model: Implemented model based on GoogLeNet.
   2. resnet_model: Implemented resnet-50 model in Keras and Tensorflow.
 - simple_models:
-  1. svm: SVM implementation using simple gradient descent, for linear and gaussian kernels.
-  2. dense_neural_net: Simple neural network with hidden layers and sigmoid/relu activation, xavier initialization, and adam optimization implementations.
-  3. linear_regression: Linear regression implementation using gradient descent.
-  4. logistic_regression: Logistic regression implementation using gradient descent.
-  5. naive_bayes: Bayesian classification model based on gaussian likelihood.
+  1. kernel regression: gaussian kernel, gradient hyperparameter search, and bootstrapped prediction intervals
+  2. svm: SVM implementation using simple gradient descent, for linear and gaussian kernels.
+  3. dense_neural_net: Simple neural network with hidden layers and sigmoid/relu activation, xavier initialization, and adam optimization implementations.
+  4. linear_regression: Linear regression implementation using gradient descent.
+  5. logistic_regression: Logistic regression implementation using gradient descent.
+  6. naive_bayes: Bayesian classification model based on gaussian likelihood.
