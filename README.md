@@ -5,8 +5,6 @@ Projects/Implementations, each with a varying level of clear documentation and a
 #### All descriptions: 
 - dino_runner_yolo: YOLO model implementation to detect whether a user's palm is open or closed (based on personal data), and separate driver program that feeds commands to play the Chrome dinosaur game using Selenium.
 - trigger_word_detector: Unidirectional multilayered RNN model to detect when a trigger word is said (based on personal data and heavy data synthesis), and separate driver program using multithreading to detect utterances on the fly.
-- recommender_systems: Collaborative filtering implementation.
-- anomaly_detection: Gaussian anomaly detection w/ multivariate and univariate implementations.
 - pointer-gen_implementations: Various implementations of pointer-generator networks & beam search.
 - generative_adversarial_nets: 
   1. Standard GAN implementation for digit generation.
@@ -33,6 +31,8 @@ Projects/Implementations, each with a varying level of clear documentation and a
   2. Fast gradient sign method.
   3. Traditional adversarial regularization.
   4. Virtual adversarial regularization.
+- bayesian_methods:
+  1. Gaussian Process regression.
 - other_models_and_work:
   1. Pointer Network for solving convex hull.
   2. Joint-siamese model for NLP.
@@ -53,6 +53,10 @@ Projects/Implementations, each with a varying level of clear documentation and a
   1. K-means clustering implementation.
   2. DBSCAN density clustering implementation.
   3. Gaussian mixture model.
+- anomaly_detection: 
+  1. Gaussian anomaly detection w/ multivariate and univariate implementations.
+- recommender_systems: 
+  1. Collaborative filtering implementation.
 - language_models: 
   1. Character level RNN for Goethe's Wilhelm Meister.
   2. Word level CNN with Gated Linear Units for Melville's Moby-Dick.
