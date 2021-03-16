@@ -55,6 +55,7 @@ Projects/Implementations, each with a varying level of clear documentation and a
   3. Gaussian mixture model.
 - anomaly_detection: 
   1. Gaussian anomaly detection w/ multivariate and univariate implementations.
+  2. Mahalanobis distance implementation.
 - recommender_systems: 
   1. Collaborative filtering implementation.
 - language_models: 
