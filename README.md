@@ -35,6 +35,7 @@ Projects/Implementations, each with a varying level of clear documentation and a
   1. Spectral graph convolutional network.
   2. DeepWalk implementation.
   3. GraphSAGE implementation.
+  4. Graph attention network.
 - bayesian_methods:
   1. Gaussian Process regression.
 - other_models_and_work:
