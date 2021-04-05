@@ -31,6 +31,8 @@ Projects/Implementations, each with a varying level of clear documentation and a
   2. Fast gradient sign method.
   3. Traditional adversarial regularization.
   4. Virtual adversarial regularization.
+- graph_neural_networks:
+  1. Spectral graph convolutional network.
 - bayesian_methods:
   1. Gaussian Process regression.
 - other_models_and_work:
