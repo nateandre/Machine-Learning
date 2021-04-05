@@ -34,6 +34,7 @@ Projects/Implementations, each with a varying level of clear documentation and a
 - graph_neural_networks:
   1. Spectral graph convolutional network.
   2. DeepWalk implementation.
+  3. GraphSAGE implementation.
 - bayesian_methods:
   1. Gaussian Process regression.
 - other_models_and_work:
