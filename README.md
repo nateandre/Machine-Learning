@@ -38,6 +38,8 @@ Projects/Implementations, each with a varying level of clear documentation and a
   4. Graph attention network.
 - bayesian_methods:
   1. Gaussian Process regression.
+- biology:
+  1. Hierarchical multi-label classification network for protein function prediction.
 - other_models_and_work:
   1. Pointer Network for solving convex hull.
   2. Joint-siamese model for NLP.
@@ -50,7 +52,7 @@ Projects/Implementations, each with a varying level of clear documentation and a
   2. variational auto-encoder for generation with MNIST.
   3. stacked denoising auto-encoder for domain adaptation.
 - computer_vision:
-  1. Neural style transfer ([Video](https://www.linkedin.com/posts/nathaniel-andre_computervision-deeplearning-activity-6484430196412944384-Zjj3)).
+  1. Neural style transfer.
   2. Facial recognition implementation based on FaceNet.
   3. GoogLeNet Tensorflow implementation.
   4. Resnet-50 implementation in Keras and Tensorflow.
