@@ -1,4 +1,4 @@
-### Random Machine Learning Projects/Implementations
+### Machine Learning Projects & Implementations
 
 Projects/Implementations, each with a varying level of clear documentation and algorithmic efficiency.
 
@@ -38,6 +38,9 @@ Projects/Implementations, each with a varying level of clear documentation and a
   4. Graph attention network.
 - bayesian_methods:
   1. Gaussian Process regression.
+  2. Gaussian mixture model.
+- interpretability:
+  1. Prototype network.
 - biology:
   1. Hierarchical multi-label classification network for protein function prediction.
 - other_models_and_work:
@@ -59,7 +62,6 @@ Projects/Implementations, each with a varying level of clear documentation and a
 - clustering: 
   1. K-means clustering implementation.
   2. DBSCAN density clustering implementation.
-  3. Gaussian mixture model.
 - anomaly_detection: 
   1. Gaussian anomaly detection w/ multivariate and univariate implementations.
   2. Mahalanobis distance implementation.
