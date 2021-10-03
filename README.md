@@ -41,6 +41,7 @@ Projects/Implementations, each with a varying level of clear documentation and a
   2. Gaussian mixture model.
 - interpretability:
   1. Prototype network.
+  2. Class activation mapping.
 - biology:
   1. Hierarchical multi-label classification network for protein function prediction.
 - other_models_and_work:
