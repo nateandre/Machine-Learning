@@ -57,8 +57,9 @@ Projects/Implementations, each with a varying level of clear documentation and a
 - computer_vision:
   1. Neural style transfer.
   2. Facial recognition implementation based on FaceNet.
-  3. GoogLeNet Tensorflow implementation.
-  4. Resnet-50 implementation in Keras and Tensorflow.
+  3. Fully-convolutional CNN.
+  4. GoogLeNet Tensorflow implementation.
+  5. Resnet-50 implementation in Keras and Tensorflow.
 - clustering: 
   1. K-means clustering implementation.
   2. DBSCAN density clustering implementation.
