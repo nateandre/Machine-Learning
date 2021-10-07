@@ -41,6 +41,7 @@ Projects/Implementations, each with a varying level of clear documentation and a
   2. Class activation mapping.
   3. Layer-wise relevance propogation.
   4. Saliency maps using backpropagation.
+  5. DeepLIFT implementation.
 - bayesian_methods:
   1. Gaussian Process regression.
   2. Gaussian mixture model.
