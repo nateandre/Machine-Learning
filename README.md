@@ -42,6 +42,8 @@ Projects/Implementations, each with a varying level of clear documentation and a
   3. Layer-wise relevance propogation.
   4. Saliency maps using backpropagation.
   5. DeepLIFT implementation.
+- semi_supervised:
+  1. Self-training
 - bayesian_methods:
   1. Gaussian Process regression.
   2. Gaussian mixture model.
