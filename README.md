@@ -45,6 +45,7 @@ Projects/Implementations, each with a varying level of clear documentation and a
 - semi_supervised:
   1. Self-training.
   2. Co-training.
+  3. Label propagation.
 - bayesian_methods:
   1. Gaussian Process regression.
   2. Gaussian mixture model.
