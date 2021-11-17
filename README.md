@@ -46,6 +46,8 @@ Projects/Implementations, each with a varying level of clear documentation and a
   1. Self-training.
   2. Co-training.
   3. Label propagation.
+- meta_learning:
+  1. Model-agnostic meta-learning.
 - bayesian_methods:
   1. Gaussian Process regression.
   2. Gaussian mixture model.
