@@ -48,6 +48,7 @@ Projects/Implementations, each with a varying level of clear documentation and a
   3. Label propagation.
 - meta_learning:
   1. Model-agnostic meta-learning.
+  2. Reptile Meta-Learning.
 - bayesian_methods:
   1. Gaussian Process regression.
   2. Gaussian mixture model.
