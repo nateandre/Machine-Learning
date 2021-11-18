@@ -6,6 +6,7 @@ Projects/Implementations, each with a varying level of clear documentation and a
 - dino_runner_yolo: YOLO model implementation to detect whether a user's palm is open or closed (based on personal data), and separate driver program that feeds commands to play the Chrome dinosaur game using Selenium.
 - trigger_word_detector: Unidirectional multilayered RNN model to detect when a trigger word is said (based on personal data and heavy data synthesis), and separate driver program using multithreading to detect utterances on the fly.
 - pointer-gen_implementations: Various implementations of pointer-generator networks & beam search.
+- spam_filter: Old school approach to detect spam with machine learning.
 - generative_adversarial_nets: 
   1. Standard GAN implementation for digit generation.
   2. Conditional LSGAN.
