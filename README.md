@@ -1,5 +1,5 @@
 ### Machine Learning Projects & Implementations
-
+ 
 Projects/Implementations, each with a varying level of clear documentation and algorithmic efficiency.
 
 #### All descriptions: 
